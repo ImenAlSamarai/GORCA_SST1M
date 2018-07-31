@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8095ec7f-e782-4653-8b56-a1635cb72354" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/care_cfg/1M-SST_Albedo_DataBase.root" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/care_cfg/PDEdropAt204.5MHzNSB.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/care_cfg/PDEdropAt3MHzNSB.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/care_cfg/PDEdropAt40.9MHzNSB.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/care_cfg/PDEdropAt660MHzNSB.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/care_cfg/PDEdropAt81.8MHzNSB.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/care_cfg/PlotCamera.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/care_cfg/SST-1M.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/care_cfg/SST-1M_camera_descriptor.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/care_cfg/all_pulseshapes.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/care_cfg/camera_descriptor.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/care_cfg/cta_funnels.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/care_cfg/funnels_borofilter540nm.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/care_cfg/lightguide_weights.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/care_cfg/mc-sst_telescopes.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/care_cfg/patches.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/care_cfg/plotLightCameraAlbedo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/care_cfg/pulse_SST-1M_AfterPreamp.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/care_cfg/qe-fresnel_care.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/care_cfg/qe.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/care_cfg/qe_print.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/care_cfg/single_telescope.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/care_cfg/spec_2000_1_216_20-2.lis" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/care_cfg/update_camera_descriptor.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/care_cfg/winston_cone_average.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="qe.dat" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/care_cfg/qe.dat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1822" />
+    <option name="y" value="501" />
+    <option name="width" value="1839" />
+    <option name="height" value="543" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GORCA_SST1M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GORCA_SST1M" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GORCA_SST1M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GORCA_SST1M" type="462c0819:PsiDirectoryNode" />
+              <item name="care_cfg" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8095ec7f-e782-4653-8b56-a1635cb72354" name="Default" comment="" />
+      <created>1533022883442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533022883442</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1822" y="501" width="1839" height="543" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/care_cfg/qe.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
