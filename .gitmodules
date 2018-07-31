@@ -1,0 +1,3 @@
+[submodule "CARE"]
+	path = CARE
+	url = https://github.com/nepomukotte/CARE
